@@ -1,0 +1,39 @@
+/*reglas
+selectores
+declaraciones
+propiedades
+valores*/
+
+/* selector de etiqueta header - section - article - nav*/
+
+/*header {
+    background: pink;
+}*/
+
+/*selector descendente 
+body header div nav ol li a*/
+
+/* Selector de clase*/
+/*.link{}*/ 
+
+/*Selector de ID #
+#portafolio {}*/
+
+body  {
+    font-family: Arial, helvetica, sans-serif;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+
